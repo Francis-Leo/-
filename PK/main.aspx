@@ -22,10 +22,21 @@
                             <a id="CheckCard" onclick="Game(this)">
                                 <img src="image/1.jpg" />
                                 <div>
-                                    <span>选择好友「点击」进行查看</span>
+                                    <span>选择对象「点击」进行查看</span>
                                 </div>
                             </a>
                             <span>查看卡牌</span>
+                        </li>
+                        <li>
+                            <a id="Plunder" onclick="Game(this)">
+                                <img src="image/3.jpg" />
+                                <div>
+                                    <span>选择对象「点击」开始掠夺<br/><br/>
+                                        去抢夺巨龙的宝藏吧！！！
+                                    </span>
+                                </div>
+                            </a>
+                            <span>掠夺模式</span>
                         </li>
                         <li>
                             <a id="PK" onclick="Game(this)">
@@ -38,15 +49,6 @@
                                 </div>
                             </a>
                             <span>PK模式</span>
-                        </li>
-                        <li>
-                            <a id="Plunder" onclick="Game(this)">
-                                <img src="image/3.jpg" />
-                                <div>
-                                    <span>选择好友「点击」开始掠夺</span>
-                                </div>
-                            </a>
-                            <span>掠夺模式</span>
                         </li>
                         <li>
                             <a onclick="Ranking()">
