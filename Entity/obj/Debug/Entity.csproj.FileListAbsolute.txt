@@ -1,0 +1,8 @@
+E:\临时\【PK】\PK\PK\Entity\bin\Debug\Entity.dll
+E:\临时\【PK】\PK\PK\Entity\bin\Debug\Entity.pdb
+E:\临时\【PK】\PK\PK\Entity\obj\Debug\Entity.dll
+E:\临时\【PK】\PK\PK\Entity\obj\Debug\Entity.pdb
+E:\临时\【PK】\牛津卡牌\PK\Entity\bin\Debug\Entity.dll
+E:\临时\【PK】\牛津卡牌\PK\Entity\bin\Debug\Entity.pdb
+E:\临时\【PK】\牛津卡牌\PK\Entity\obj\Debug\Entity.dll
+E:\临时\【PK】\牛津卡牌\PK\Entity\obj\Debug\Entity.pdb

@@ -1,0 +1,17 @@
+E:\临时\【PK】\PK\PK\DAL\bin\Debug\DAL.dll
+E:\临时\【PK】\PK\PK\DAL\bin\Debug\DAL.pdb
+E:\临时\【PK】\PK\PK\DAL\bin\Debug\Entity.dll
+E:\临时\【PK】\PK\PK\DAL\bin\Debug\IDAL.dll
+E:\临时\【PK】\PK\PK\DAL\bin\Debug\MySql.Data.dll
+E:\临时\【PK】\PK\PK\DAL\bin\Debug\Entity.pdb
+E:\临时\【PK】\PK\PK\DAL\bin\Debug\IDAL.pdb
+E:\临时\【PK】\PK\PK\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\临时\【PK】\PK\PK\DAL\obj\Debug\DAL.dll
+E:\临时\【PK】\PK\PK\DAL\obj\Debug\DAL.pdb
+E:\临时\【PK】\PK\PK\PK\bin\DAL.dll
+E:\临时\【PK】\PK\PK\PK\bin\DAL.pdb
+E:\临时\【PK】\牛津卡牌\PK\PK\bin\DAL.dll
+E:\临时\【PK】\牛津卡牌\PK\PK\bin\DAL.pdb
+E:\临时\【PK】\牛津卡牌\PK\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\临时\【PK】\牛津卡牌\PK\DAL\obj\Debug\DAL.dll
+E:\临时\【PK】\牛津卡牌\PK\DAL\obj\Debug\DAL.pdb

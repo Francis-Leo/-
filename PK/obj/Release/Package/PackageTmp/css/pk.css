@@ -1,0 +1,68 @@
+﻿body{
+	margin:0.8em;
+	padding:0px;
+}
+h1
+{
+    text-align:center;
+    font-family:'Microsoft YaHei';
+}
+div.pic{
+	float:left;  
+	padding:0px;
+	margin:10px 0px 30px 150px;
+	height:400px; width:400px;
+}
+div.pic img{
+	border:1px solid #82c3ff;
+	
+}
+div.ls{
+    background:url(../image/framels.jpg) no-repeat center;
+    background-size:400px;
+}
+
+div.ls img{
+	margin:0px;
+	width:360px; height:360px;	
+}
+
+div.pic div{
+	 margin:30px;	
+}
+#username1, #username2
+{
+    padding-left:10px;
+    font-size:25px;
+    font-family:'Microsoft YaHei UI';
+}
+#picture_name1, #picture_name2
+{
+    margin-left:150px;
+    margin-right:280px;
+    font-size:20px;
+}
+div.ls a{
+	display:block;
+	padding:11px 11px 14px 11px;	
+}
+
+div.ls a:hover{
+	background:url(../image/framels_hover.jpg) no-repeat center;
+    background-size:400px;	
+}
+
+#stickey_return { 
+	background: none repeat scroll 0 0 #1D1D1D;
+	border: 1px solid rgba(0, 0, 0, 0.3);
+	top: 0;
+	font-family: Arial, Helvetica, sans-serif;
+	width: 80px;
+    height: 35px;
+	right: 5%;
+	position: fixed;
+    padding-top:10px;
+    padding-left:20px;
+	text-shadow: 1px 1px 1px #000000;
+    color:white;
+}

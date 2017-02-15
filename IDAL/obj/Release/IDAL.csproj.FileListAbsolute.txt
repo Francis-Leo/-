@@ -1,0 +1,7 @@
+E:\临时\【PK】\牛津卡牌\PK\IDAL\bin\Release\IDAL.dll
+E:\临时\【PK】\牛津卡牌\PK\IDAL\bin\Release\IDAL.pdb
+E:\临时\【PK】\牛津卡牌\PK\IDAL\bin\Release\Entity.dll
+E:\临时\【PK】\牛津卡牌\PK\IDAL\bin\Release\Entity.pdb
+E:\临时\【PK】\牛津卡牌\PK\IDAL\obj\Release\IDAL.csprojResolveAssemblyReference.cache
+E:\临时\【PK】\牛津卡牌\PK\IDAL\obj\Release\IDAL.dll
+E:\临时\【PK】\牛津卡牌\PK\IDAL\obj\Release\IDAL.pdb

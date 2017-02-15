@@ -1,0 +1,298 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+您 Web 项目的发布/打包进程将使用此文件。您可以通过编辑此 MSBuild 文件
+来自定义该进程的行为。若要了解与此相关的详细信息，请访问 http://go.microsoft.com/fwlink/?LinkID=208121。
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>E:\临时\【PK】\牛津卡牌发布V1.3</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="assets/arrow_left.png">
+      <publishTime>12/16/2016 19:15:11</publishTime>
+    </File>
+    <File Include="assets/arrow_left_hover.png">
+      <publishTime>12/16/2016 19:15:11</publishTime>
+    </File>
+    <File Include="assets/glass.png">
+      <publishTime>12/16/2016 19:15:11</publishTime>
+    </File>
+    <File Include="assets/icons/14_48x48.png">
+      <publishTime>12/16/2016 19:15:11</publishTime>
+    </File>
+    <File Include="assets/icons/16_48x48.png">
+      <publishTime>12/16/2016 19:15:11</publishTime>
+    </File>
+    <File Include="assets/icons/1_48x48.png">
+      <publishTime>12/16/2016 19:15:11</publishTime>
+    </File>
+    <File Include="assets/icons/20_48x48.png">
+      <publishTime>12/16/2016 19:15:11</publishTime>
+    </File>
+    <File Include="assets/icons/21_48x48.png">
+      <publishTime>12/16/2016 19:15:11</publishTime>
+    </File>
+    <File Include="assets/icons/25_48x48.png">
+      <publishTime>12/16/2016 19:15:11</publishTime>
+    </File>
+    <File Include="assets/icons/26_48x48.png">
+      <publishTime>12/16/2016 19:15:11</publishTime>
+    </File>
+    <File Include="assets/icons/29_48x48.png">
+      <publishTime>12/16/2016 19:15:11</publishTime>
+    </File>
+    <File Include="assets/icons/30_48x48.png">
+      <publishTime>12/16/2016 19:15:11</publishTime>
+    </File>
+    <File Include="assets/icons/3_48x48.png">
+      <publishTime>12/16/2016 19:15:11</publishTime>
+    </File>
+    <File Include="assets/icons/4_48x48.png">
+      <publishTime>12/16/2016 19:15:11</publishTime>
+    </File>
+    <File Include="assets/icons/5_48x48.png">
+      <publishTime>12/16/2016 19:15:11</publishTime>
+    </File>
+    <File Include="assets/icons/7_48x48.png">
+      <publishTime>12/16/2016 19:15:11</publishTime>
+    </File>
+    <File Include="assets/icons/8_48x48.png">
+      <publishTime>12/16/2016 19:15:11</publishTime>
+    </File>
+    <File Include="assets/icons/9_48x48.png">
+      <publishTime>12/16/2016 19:15:11</publishTime>
+    </File>
+    <File Include="assets/icons/info_48.png">
+      <publishTime>12/16/2016 19:15:11</publishTime>
+    </File>
+    <File Include="assets/icons/stop_48.png">
+      <publishTime>12/16/2016 19:15:11</publishTime>
+    </File>
+    <File Include="assets/icons/tick_48.png">
+      <publishTime>12/16/2016 19:15:11</publishTime>
+    </File>
+    <File Include="assets/icons/warning_48.png">
+      <publishTime>12/16/2016 19:15:11</publishTime>
+    </File>
+    <File Include="assets/icons_black.png">
+      <publishTime>12/16/2016 19:15:11</publishTime>
+    </File>
+    <File Include="assets/icons_white.png">
+      <publishTime>12/16/2016 19:15:11</publishTime>
+    </File>
+    <File Include="assets/input.png">
+      <publishTime>12/16/2016 19:15:12</publishTime>
+    </File>
+    <File Include="assets/jquery.wysiwyg.gif">
+      <publishTime>12/16/2016 19:15:12</publishTime>
+    </File>
+    <File Include="assets/largebut.png">
+      <publishTime>12/16/2016 19:15:12</publishTime>
+    </File>
+    <File Include="assets/largebut_hover.png">
+      <publishTime>12/16/2016 19:15:12</publishTime>
+    </File>
+    <File Include="assets/loginbg.png">
+      <publishTime>12/16/2016 19:15:12</publishTime>
+    </File>
+    <File Include="assets/logo.png">
+      <publishTime>12/16/2016 19:45:40</publishTime>
+    </File>
+    <File Include="assets/mhover.png">
+      <publishTime>12/16/2016 19:15:12</publishTime>
+    </File>
+    <File Include="assets/rep1.png">
+      <publishTime>12/16/2016 19:15:12</publishTime>
+    </File>
+    <File Include="assets/repgray2.png">
+      <publishTime>12/16/2016 19:15:12</publishTime>
+    </File>
+    <File Include="assets/searchbar.png">
+      <publishTime>12/16/2016 19:15:12</publishTime>
+    </File>
+    <File Include="assets/siderep.png">
+      <publishTime>12/16/2016 19:15:12</publishTime>
+    </File>
+    <File Include="assets/walk.gif">
+      <publishTime>12/16/2016 15:44:02</publishTime>
+    </File>
+    <File Include="bin/BLL.dll">
+      <publishTime>02/15/2017 19:13:11</publishTime>
+    </File>
+    <File Include="bin/Entity.dll">
+      <publishTime>02/15/2017 19:13:11</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>01/11/2017 20:08:45</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>01/11/2017 20:08:45</publishTime>
+    </File>
+    <File Include="bin/Factory.dll">
+      <publishTime>02/15/2017 19:13:11</publishTime>
+    </File>
+    <File Include="bin/IDAL.dll">
+      <publishTime>02/15/2017 19:13:11</publishTime>
+    </File>
+    <File Include="bin/MySql.Data.dll">
+      <publishTime>11/25/2016 20:49:56</publishTime>
+    </File>
+    <File Include="bin/PK.dll">
+      <publishTime>02/15/2017 19:13:12</publishTime>
+    </File>
+    <File Include="css/bootstrap.css">
+      <publishTime>12/18/2016 18:30:03</publishTime>
+    </File>
+    <File Include="css/index.css">
+      <publishTime>01/17/2017 17:09:57</publishTime>
+    </File>
+    <File Include="css/jquery-lightbox-theme-mobile.png">
+      <publishTime>01/23/2017 10:33:20</publishTime>
+    </File>
+    <File Include="css/jquery-lightbox-theme.gif">
+      <publishTime>01/23/2017 10:33:20</publishTime>
+    </File>
+    <File Include="css/jquery-lightbox-theme.png">
+      <publishTime>01/23/2017 10:33:20</publishTime>
+    </File>
+    <File Include="css/login.css">
+      <publishTime>01/15/2017 18:29:37</publishTime>
+    </File>
+    <File Include="css/main_lrtk.css">
+      <publishTime>01/23/2017 10:16:51</publishTime>
+    </File>
+    <File Include="css/main_reset.css">
+      <publishTime>01/23/2017 10:34:58</publishTime>
+    </File>
+    <File Include="css/main_style.css">
+      <publishTime>01/23/2017 10:44:14</publishTime>
+    </File>
+    <File Include="css/member.css">
+      <publishTime>02/15/2017 19:10:37</publishTime>
+    </File>
+    <File Include="css/pk.css">
+      <publishTime>02/09/2017 20:09:48</publishTime>
+    </File>
+    <File Include="css/plunder.css">
+      <publishTime>02/09/2017 17:57:33</publishTime>
+    </File>
+    <File Include="css/ranking_component.css">
+      <publishTime>02/09/2017 18:07:04</publishTime>
+    </File>
+    <File Include="css/userlist_footer.css">
+      <publishTime>02/03/2017 18:56:40</publishTime>
+    </File>
+    <File Include="css/userlist_menu_style.css">
+      <publishTime>02/03/2017 18:24:20</publishTime>
+    </File>
+    <File Include="css/userlist_styles.css">
+      <publishTime>02/09/2017 21:37:06</publishTime>
+    </File>
+    <File Include="image/1.jpg">
+      <publishTime>01/22/2017 20:40:39</publishTime>
+    </File>
+    <File Include="image/2.jpg">
+      <publishTime>01/22/2017 20:40:39</publishTime>
+    </File>
+    <File Include="image/3.jpg">
+      <publishTime>01/22/2017 20:40:39</publishTime>
+    </File>
+    <File Include="image/4.jpg">
+      <publishTime>01/22/2017 20:40:39</publishTime>
+    </File>
+    <File Include="image/c1.jpg">
+      <publishTime>01/10/2017 21:33:32</publishTime>
+    </File>
+    <File Include="image/c2.jpg">
+      <publishTime>01/10/2017 21:29:20</publishTime>
+    </File>
+    <File Include="image/c3.jpg">
+      <publishTime>01/10/2017 21:36:45</publishTime>
+    </File>
+    <File Include="image/correct.png">
+      <publishTime>01/22/2017 20:40:39</publishTime>
+    </File>
+    <File Include="image/framels.jpg">
+      <publishTime>01/09/2017 14:01:10</publishTime>
+    </File>
+    <File Include="image/framels_hover.jpg">
+      <publishTime>01/09/2017 14:01:10</publishTime>
+    </File>
+    <File Include="image/logo2.png">
+      <publishTime>12/16/2016 19:45:22</publishTime>
+    </File>
+    <File Include="image/turkey.jpg">
+      <publishTime>01/31/2017 18:12:44</publishTime>
+    </File>
+    <File Include="image/user_login.png">
+      <publishTime>01/15/2017 18:29:30</publishTime>
+    </File>
+    <File Include="image/walk.gif">
+      <publishTime>12/16/2016 15:44:02</publishTime>
+    </File>
+    <File Include="image/winner_1.png">
+      <publishTime>02/04/2017 21:38:57</publishTime>
+    </File>
+    <File Include="image/winner_2.png">
+      <publishTime>02/04/2017 21:38:57</publishTime>
+    </File>
+    <File Include="image/wrong.png">
+      <publishTime>01/22/2017 20:40:39</publishTime>
+    </File>
+    <File Include="index.aspx">
+      <publishTime>01/11/2017 09:00:40</publishTime>
+    </File>
+    <File Include="js/jquery-1.9.1.min.js">
+      <publishTime>12/17/2016 20:55:15</publishTime>
+    </File>
+    <File Include="js/jquery.ba-throttle-debounce.min.js">
+      <publishTime>01/23/2017 08:30:50</publishTime>
+    </File>
+    <File Include="js/jquery.min.js">
+      <publishTime>01/23/2017 08:30:38</publishTime>
+    </File>
+    <File Include="js/jquery.stickyheader.js">
+      <publishTime>01/23/2017 08:30:57</publishTime>
+    </File>
+    <File Include="js/main_jquery.hoverdir.js">
+      <publishTime>01/23/2017 10:16:51</publishTime>
+    </File>
+    <File Include="js/main_modernizr.js">
+      <publishTime>01/23/2017 10:16:51</publishTime>
+    </File>
+    <File Include="js/userlist_menu.js">
+      <publishTime>02/03/2017 10:10:54</publishTime>
+    </File>
+    <File Include="login.aspx">
+      <publishTime>01/31/2017 18:10:39</publishTime>
+    </File>
+    <File Include="main.aspx">
+      <publishTime>02/09/2017 18:02:39</publishTime>
+    </File>
+    <File Include="member.aspx">
+      <publishTime>02/09/2017 17:50:39</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>01/11/2017 20:08:47</publishTime>
+    </File>
+    <File Include="PictureHandler.ashx">
+      <publishTime>01/10/2017 08:13:07</publishTime>
+    </File>
+    <File Include="pk.aspx">
+      <publishTime>02/09/2017 20:07:47</publishTime>
+    </File>
+    <File Include="plunder.aspx">
+      <publishTime>02/09/2017 17:57:57</publishTime>
+    </File>
+    <File Include="ranking.aspx">
+      <publishTime>02/09/2017 18:08:03</publishTime>
+    </File>
+    <File Include="userlist.aspx">
+      <publishTime>02/14/2017 14:30:59</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>02/15/2017 19:14:17</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
