@@ -24,10 +24,10 @@
             </div>
             <form id="Form1" runat="server">
                 <asp:TextBox runat="server" ID="username" class="text" value="用户名" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = '用户名';}"></asp:TextBox>
-                <asp:TextBox runat="server" type="password" id="password" value="" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = '';}"></asp:TextBox>
+                <asp:TextBox runat="server" type="password" ID="password" value="" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = '';}"></asp:TextBox>
                 <div class="submit">
                     <%--<input type="submit" onclick="Login_Click()" value="登 陆">--%>
-                    <asp:Button ID="btn_login" runat="server" Text="登 陆" onclick="Login_Click" />
+                    <asp:Button ID="btn_login" runat="server" Text="登 陆" OnClick="Login_Click" />
                 </div>
                 <p><a href="#">Forgot Password ?</a></p>
             </form>
@@ -39,4 +39,13 @@
         <!-----//end-copyright---->
     </div>
 </body>
+<script src="js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript">
+    //判断浏览器类型
+    $(document).ready(function () {
+        if (!/firefox/.test(navigator.userAgent.toLowerCase())) {
+            alert("非火狐浏览器，部分功能可能无法使用！");
+        }       
+    })
+</script>
 </html>
